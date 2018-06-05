@@ -1,0 +1,18 @@
+body {
+
+    background-image: url("https://stmed.net/sites/default/files/star-wars-wallpapers-29931-6590631.jpg");
+}
+
+.jumbotron-fluid {
+    height: 75px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#gameContainer {
+    margin-right: 45%;
+    margin-left: 45%
+    background-color: gray;
+    color: #ffffff
+}
